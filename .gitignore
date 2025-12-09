@@ -1,0 +1,17 @@
+# Ignore all dataset folders
+uadfv-new/*
+*.mp4
+*.avi
+*.jpg
+*.png
+*.zip
+*.tar
+*.tar.gz
+*.h5
+*.pt
+*.ckpt
+*.npy
+*.npz
+data/
+dataset/
+datasets/
