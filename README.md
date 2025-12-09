@@ -1,5 +1,5 @@
 README.md (Copy–Paste this into your repo)
-# Deepfake Detection Using CNN and CoAtNet (College Major Project)
+# Deepfake Detection Using CNN and CoAtNet (Project 1 during B.tech)
 
 This project focuses on building a **two-stage deepfake detection model** using  
 1) a Convolutional Neural Network (CNN) and  
